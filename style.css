@@ -1,0 +1,65 @@
+
+ body{
+    background: url('bg4.jpg') no-repeat center center/cover;
+    height: 100%;
+    width: 100%;
+  }
+  .container{
+    background-color: rgb(0, 0, 0);
+    width: 30%;
+    height: 97%;
+    box-shadow: #4e3d3d 22px;
+    text-align: center;
+    justify-content:center;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 35%;
+    border-radius: 10px;
+  }
+  .calcii{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
+  input{
+    align-items: center;
+    text-align: right;
+    justify-content: center;
+    color: rgb(238, 231, 231);
+    background-color: rgb(10, 1, 1);
+    width: 80%;
+    height: 70px;
+    margin: 40px;
+    border-radius: 10px;
+    outline: none;
+    appearance: none;
+    border: 2px solid black;
+    font-size: 33px;
+    margin-bottom: 50px;
+
+  }
+  button{
+    width: 64px;
+    padding: 17px;
+    margin: 6px 8px;
+    border-radius: 50px;
+    cursor: pointer;
+   outline: none;
+   appearance: none;
+   border: none;
+   text-align: center;
+   background-color: rgb(61, 61, 61);
+   font-size: 22px;
+   color: #ffffff;
+   font-weight: bold;
+  }
+  .button-operator{
+    background-color: rgb(103, 98, 95);
+
+    color: rgb(91, 245, 214);
+  }
+  .button-operatorac{
+    background-color: crimson;
+
+  }
+  
